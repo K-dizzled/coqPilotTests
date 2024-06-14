@@ -10,5 +10,6 @@ _CoqProject
 *.vok
 .lia.cache
 .DS_Store
+result
 # Coqpilot auxiliary files
 *_cp_aux.v
