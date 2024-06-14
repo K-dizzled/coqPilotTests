@@ -4,7 +4,7 @@
 
 with lib; mkCoqDerivation {
   pname = "coqpilotTests";
-  owner = "anlun";
+  owner = "K-dizzled";
   domain = "github.com";
 
   inherit version;

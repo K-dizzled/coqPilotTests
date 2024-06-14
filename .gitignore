@@ -9,3 +9,5 @@ _CoqProject
 *.vos
 *.vok
 .lia.cache
+# Coqpilot auxiliary files
+*_cp_aux.v
